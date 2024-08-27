@@ -1,0 +1,18 @@
+// Copyright (C) 2013 Digia Plc and/or its subsidiary(-ies).
+// SPDX-License-Identifier: BSD-3-Clause
+
+/*! 
+    \page qtpropertybrowser-example-decoration.html
+    \title Decoration Example
+
+    This example demonstrates how to decorate the existing
+    QtDoublePropertyManager class with additional responsibilities.
+
+    \image decoration.png
+
+    It also shows how to write respective editor factory for decorated manager
+    by delegating common responsibilities of undecorated base manager to the aggregated
+    QtDoubleSpinBoxFactory member.
+
+    The source files can be found in examples/decoration directory of the package.
+*/

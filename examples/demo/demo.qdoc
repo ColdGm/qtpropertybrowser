@@ -1,0 +1,23 @@
+// Copyright (C) 2013 Digia Plc and/or its subsidiary(-ies).
+// SPDX-License-Identifier: BSD-3-Clause
+
+/*! 
+    \page qtpropertybrowser-example-demo.html
+    \title Demo Example
+
+    This example shows how to customize a property browser widget's
+    appearance and behavior.
+
+    \image demo.png
+
+    The various property browsers presented in this example display
+    the same set of properties, and are implementations of the
+    QtTreePropertyBrowser class and the QtGroupBoxPropertyBrowser
+    class, respectively. 
+
+    The example shows how a property browser's appearance and behavior can
+    be varied using the QtPropertyBrowser framework's property
+    managers and editor factories.
+
+    The source files can be found in examples/demo directory of the package.
+ */

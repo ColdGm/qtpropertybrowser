@@ -1,0 +1,17 @@
+// Copyright (C) 2013 Digia Plc and/or its subsidiary(-ies).
+// SPDX-License-Identifier: BSD-3-Clause
+
+/*! 
+    \page qtpropertybrowser-example-extension.html
+    \title Extension Example
+
+    This example demonstrates how to extend the
+    QtVariantPropertyManager class to handle additional property
+    types.
+
+    \image extension.png
+
+    The variant manager is extended to handle the QPointF type.
+
+    The source files can be found in examples/extension directory of the package.
+*/

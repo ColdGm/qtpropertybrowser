@@ -1,0 +1,18 @@
+// Copyright (C) 2013 Digia Plc and/or its subsidiary(-ies).
+// SPDX-License-Identifier: BSD-3-Clause
+
+/*! 
+    \page qtpropertybrowser-example-object_controller.html
+    \title The Object Controller Example.
+
+    \image object_controller.png
+
+    This example implements a simple widget component which shows
+    QObject's and its subclasses' properties. The user can modify these properies interacively
+    and the object controller applies the changes to the controlled object.
+    The object controller is similar to the property editor used in QDesigner application.
+    To control the object just instantiate ObjectController, set controlled object (any QObject subclass) by
+    calling ObjectController::setObject() and show the controller.
+
+    The source files can be found in examples/object_controller directory of the package.
+*/
